@@ -1,0 +1,13 @@
+.head {
+  background-color: lightblue;
+  text-align: center;
+}
+
+.news {
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
